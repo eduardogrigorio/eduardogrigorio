@@ -21,6 +21,7 @@ Sou **Analista Sênior de TI** com mais de **18 anos** mantendo ambientes corpor
 - 📡 Monitoramento e observabilidade com **Zabbix** e **Grafana**
 - 🗂️ Gestão de ativos e chamados com **GLPI**
 - 🖥️ Acesso remoto e gerenciamento de endpoints com **MeshCentral**
+- 📋 Gestão de projetos com **Trello** (Kanban), apoiada por **Microsoft To Do** e **Google Keep**
 - 🐍 Automação e APIs com **Python** (FastAPI)
 - ☁️ Cloud com **Microsoft Azure**
 - 🎓 Pós-graduação em **DevOps**
@@ -54,6 +55,13 @@ Sou **Analista Sênior de TI** com mais de **18 anos** mantendo ambientes corpor
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GLPI](https://img.shields.io/badge/GLPI-0E5A8A?style=for-the-badge)
 ![MeshCentral](https://img.shields.io/badge/MeshCentral-1F6FEB?style=for-the-badge)
+
+**Gestão de Projetos & Produtividade**
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Microsoft To Do](https://img.shields.io/badge/Microsoft_To_Do-2564CF?style=for-the-badge&logo=microsofttodo&logoColor=white)
+![Google Keep](https://img.shields.io/badge/Google_Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=black)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **DevOps (em evolução)**
 
@@ -95,6 +103,48 @@ flowchart LR
 - [ ] 🐳 Projeto Docker com pipeline CI/CD (GitHub Actions)
 - [ ] 🏗️ Infraestrutura como código com Terraform e Ansible
 - [ ] ☸️ Deploy em Kubernetes com GitOps (ArgoCD)
+
+---
+
+## 📋 Gestão de Projetos: Kanban Mode
+
+> Infraestrutura sem organização vira incêndio. Aqui o **backlog também é código**: tudo visível, priorizado e versionado na cabeça. 🧠
+
+### 🎮 Meu fluxo de missões
+
+```mermaid
+flowchart LR
+    A[💡 Backlog<br/>ideias e chamados] --> B[📌 A Fazer<br/>priorizado]
+    B --> C[⚙️ Em Andamento<br/>limite de WIP]
+    C --> D[🧪 Teste / Validação<br/>homologação]
+    D --> E[✅ Concluído<br/>documentado]
+    D -.falhou.-> C
+    style A fill:#8B949E,color:#fff,stroke:none
+    style B fill:#0052CC,color:#fff,stroke:none
+    style C fill:#F5A623,color:#fff,stroke:none
+    style D fill:#7B42BC,color:#fff,stroke:none
+    style E fill:#2EA043,color:#fff,stroke:none
+```
+
+### 🕹️ Minha build de ferramentas
+
+| Ferramenta | Para que uso | Nível de uso |
+|------------|--------------|--------------|
+| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) **Trello** ⭐ *main* | Quadros Kanban de projetos, checklists, prazos e etiquetas por prioridade | `██████████` **MAX** |
+| ![To Do](https://img.shields.io/badge/Microsoft_To_Do-2564CF?style=flat-square&logo=microsofttodo&logoColor=white) **Microsoft To Do** | Tarefas pessoais do dia e lembretes integrados ao ecossistema Microsoft | `███████░░░` Alto |
+| ![Keep](https://img.shields.io/badge/Google_Keep-FFBB00?style=flat-square&logo=googlekeep&logoColor=black) **Google Keep** | Anotações rápidas, ideias e comandos que quero lembrar | `██████░░░░` Médio |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** | Versionamento, issues e documentação técnica dos projetos | `███████░░░` Alto |
+
+### ⚔️ Regras da minha guilda
+
+- 🎯 **Um quadro por projeto**, com colunas claras e um dono para cada cartão
+- 🚦 **Limite de itens em andamento** (WIP): terminar vale mais do que começar
+- 🏷️ **Etiquetas por cor:** 🔴 urgente · 🟠 importante · 🟢 melhoria · 🔵 estudo
+- ✅ **Checklist em todo cartão**, igual a um plano de rollback
+- 📝 **Cartão concluído = documentado.** Se não está documentado, não terminou
+- 🔁 **Revisão semanal** do backlog, para o quadro não virar cemitério de ideias
+
+> 💡 **Easter egg:** Kanban é a base de DevOps. Fluxo contínuo, visibilidade e melhoria constante são os mesmos princípios de um pipeline CI/CD. É por isso que um bom quadro e um bom pipeline andam juntos. 🚀
 
 ---
 
