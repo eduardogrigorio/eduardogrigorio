@@ -18,6 +18,10 @@ Sou **Analista Sênior de TI** com mais de **18 anos** mantendo ambientes corpor
 
 - 🛡️ Segurança e conformidade **LGPD** em ambientes de produção
 - ⚙️ Automação de rotinas de TI com **PowerShell** e **Python**
+- 📡 Monitoramento e observabilidade com **Zabbix** e **Grafana**
+- 🗂️ Gestão de ativos e chamados com **GLPI**
+- 🖥️ Acesso remoto e gerenciamento de endpoints com **MeshCentral**
+- 🐍 Automação e APIs com **Python** (FastAPI)
 - ☁️ Cloud com **Microsoft Azure**
 - 🎓 Pós-graduação em **DevOps**
 - 🚀 Construindo um portfólio público: **Docker → CI/CD → Terraform/Ansible → Kubernetes**
@@ -43,6 +47,13 @@ Sou **Analista Sênior de TI** com mais de **18 anos** mantendo ambientes corpor
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Monitoramento, Gestão & Acesso Remoto**
+
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-0E5A8A?style=for-the-badge)
+![MeshCentral](https://img.shields.io/badge/MeshCentral-1F6FEB?style=for-the-badge)
 
 **DevOps (em evolução)**
 
