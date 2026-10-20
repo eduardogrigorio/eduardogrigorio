@@ -109,6 +109,93 @@ flowchart LR
 
 ---
 
+## 🎮 Fase Bônus: Quiz Nerd de TI
+
+> Responda de cabeça e clique para ver a resposta. Anote seus acertos e confira sua patente no final. 👇
+
+<details>
+<summary><b>🔓 Fase 1:</b> Qual cmdlet desbloqueia uma conta bloqueada no Active Directory?</summary>
+<br>
+
+**✅ `Unlock-ADAccount -Identity usuario`**
+
+Dica de ouro: para descobrir *quem* bloqueou, procure o evento **4740** no PDC Emulator.
+</details>
+
+<details>
+<summary><b>📜 Fase 2:</b> Qual ID de evento do Windows registra o bloqueio de uma conta?</summary>
+<br>
+
+**✅ 4740**
+
+Ele mostra o usuário e a máquina de origem do bloqueio. Já o **4625** registra cada falha de logon.
+</details>
+
+<details>
+<summary><b>👑 Fase 3:</b> Qual função FSMO recebe os bloqueios de conta e é a referência de tempo do domínio?</summary>
+<br>
+
+**✅ PDC Emulator**
+
+Confira com `Get-ADDomain | Select PDCEmulator`.
+</details>
+
+<details>
+<summary><b>🔌 Fase 4:</b> Qual porta padrão o LDAP usa (sem criptografia)?</summary>
+<br>
+
+**✅ 389** (e **636** para LDAPS)
+
+Teste com `Test-NetConnection srv-dc01 -Port 389`.
+</details>
+
+<details>
+<summary><b>📡 Fase 5:</b> Qual porta o Zabbix Agent escuta por padrão?</summary>
+<br>
+
+**✅ 10050**
+
+O Zabbix Server recebe dados na porta **10051**.
+</details>
+
+<details>
+<summary><b>🏗️ Fase Final:</b> O que significa IaC em DevOps?</summary>
+<br>
+
+**✅ Infrastructure as Code (Infraestrutura como Código)**
+
+Definir servidores e redes em arquivos versionados (Terraform, Ansible), em vez de cliques manuais.
+</details>
+
+<br>
+
+### 🏆 Sua patente
+
+| Acertos | Patente |
+|:-------:|---------|
+| 6 / 6 | 🧙‍♂️ **Mestre do Domain Admin** |
+| 4 – 5 | 🛡️ **Sysadmin Sênior** |
+| 2 – 3 | 🔧 **Analista em Evolução** |
+| 0 – 1 | 🐣 **Estagiário do Help Desk** (bora estudar!) |
+
+---
+
+## 🐍 Snake devorando minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardogrigorio/eduardogrigorio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardogrigorio/eduardogrigorio/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobra comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/eduardogrigorio/eduardogrigorio/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*Quanto mais eu commito, mais a cobra come. 🍎*
+
+</div>
+
+---
+
 ## 🤝 Vamos conversar?
 
 Aberto a conversas sobre **infraestrutura, segurança, automação e oportunidades em DevOps**.
