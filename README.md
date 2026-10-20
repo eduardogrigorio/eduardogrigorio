@@ -180,7 +180,9 @@ Definir servidores e redes em arquivos versionados (Terraform, Ansible), em vez 
 
 ---
 
-## 🐍 Snake devorando minhas contribuições
+## 🐍 Snake Mode: o jogo das contribuições
+
+> Um jogo que se joga sozinho, com **regras claras**, **pipeline automatizado** e **placar** que depende do meu ritmo de commits.
 
 <div align="center">
 
@@ -190,9 +192,42 @@ Definir servidores e redes em arquivos versionados (Terraform, Ansible), em vez 
   <img alt="Cobra comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/eduardogrigorio/eduardogrigorio/output/github-contribution-grid-snake.svg" />
 </picture>
 
-*Quanto mais eu commito, mais a cobra come. 🍎*
-
 </div>
+
+### 📋 Regras do jogo
+
+| # | Elemento | Como funciona |
+|:-:|----------|---------------|
+| 1 | 🟩 **Tabuleiro** | O gráfico de contribuições dos últimos 12 meses |
+| 2 | 🍎 **Comida** | Cada quadrado verde é um dia com commit, issue ou PR |
+| 3 | 🐍 **Cobra** | Percorre o tabuleiro seguindo o caminho mais eficiente |
+| 4 | 🏆 **Placar** | Mais commits = mais comida = animação mais longa |
+| 5 | 🔁 **Rodada** | Uma nova partida é gerada automaticamente a cada 12 horas |
+
+### ⚙️ Pipeline (DevOps na prática)
+
+```mermaid
+flowchart LR
+    A[⏰ Agendamento<br/>cron 12h] --> B[🤖 GitHub Actions<br/>snake.yml]
+    B --> C[📥 Lê as contribuições<br/>da API do GitHub]
+    C --> D[🎨 Gera os SVGs<br/>claro e escuro]
+    D --> E[🌿 Publica na<br/>branch output]
+    E --> F[🖼️ README exibe<br/>a nova partida]
+    style A fill:#5391FE,color:#fff,stroke:none
+    style B fill:#2088FF,color:#fff,stroke:none
+    style D fill:#7B42BC,color:#fff,stroke:none
+    style F fill:#2EA043,color:#fff,stroke:none
+```
+
+### 🎯 Metas da temporada
+
+- [x] Pipeline de geração automática com GitHub Actions
+- [x] Tema claro e escuro
+- [ ] 🔥 Commits em **pelo menos 4 dias por semana**
+- [ ] 📦 Publicar os **3 projetos DevOps** do roadmap (Docker, Terraform/Ansible, Kubernetes)
+- [ ] 🧪 Adicionar badge de **CI** (PSScriptAnalyzer) nos repositórios de scripts
+
+> 💡 **Curiosidade:** este jogo é um mini caso de **CI/CD**: agendamento, execução automatizada, artefato versionado e entrega contínua. É a mesma lógica que uso para infraestrutura.
 
 ---
 
