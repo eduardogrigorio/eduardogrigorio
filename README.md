@@ -16,7 +16,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Analista Sênior de TI** com mais de **18 anos** mantendo ambientes corporativos estáveis, seguros e automatizados. Minha base é **infraestrutura Windows/Active Directory** e **segurança de rede (Fortinet, Mikrotik)**, e hoje levo essa experiência para a cultura **DevOps**: infraestrutura como código, pipelines e containers.
+Sou **TI Sênior** com mais de **18 anos** mantendo ambientes corporativos estáveis, seguros e automatizados. Minha base é **infraestrutura Windows/Active Directory** e **segurança de rede (Fortinet, Mikrotik)**, e hoje levo essa experiência para a cultura **DevOps**: infraestrutura como código, pipelines e containers.
 
 - 🛡️ Segurança e conformidade **LGPD** em ambientes de produção
 - ⚙️ Automação de rotinas de TI com **PowerShell** e **Python**
