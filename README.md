@@ -104,7 +104,39 @@ Sou **TI Sênior** com mais de **18 anos** mantendo ambientes corporativos está
 
 ---
 
-## 📌 Projetos em destaque
+## ⭐ Projeto principal: MeshCentral
+
+<div align="center">
+
+[![meshcentral.com.br](https://img.shields.io/badge/⭐_Projeto_principal-meshcentral.com.br-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardogrigorio/meshcentral.com.br)
+
+</div>
+
+### 🖥️ [**meshcentral.com.br**](https://github.com/eduardogrigorio/meshcentral.com.br): acesso remoto open-source, seu próprio "AnyDesk"
+
+Guia em português para implantar o **MeshCentral**, plataforma open-source de acesso remoto e gerenciamento de endpoints, hospedada **nos seus servidores, com a sua marca e sem mensalidade por dispositivo**.
+
+| O que o projeto cobre | Detalhes |
+|---|---|
+| 🚀 **Instalação** | Via npm, como serviço (systemd) e com **Docker Compose** |
+| ⚙️ **Configuração** | `config.json` comentado, domínio próprio e HTTPS |
+| 📥 **Agentes** | Instalado, temporário e convite por link, para Windows, Linux e macOS |
+| 🎨 **White-label** | Logo, cores, textos em PT-BR e instalador do agente com a sua marca |
+| 🔒 **Segurança** | 2FA, bloqueio de cadastros abertos, proxy reverso, backups e permissões mínimas |
+| ⚖️ **Comparativo** | MeshCentral vs AnyDesk: custo, controle de dados e customização |
+| 🔌 **Integrações** | LDAP/Active Directory, API e WebSocket, GLPI e notificações |
+
+![MeshCentral](https://img.shields.io/badge/MeshCentral-1F6FEB?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?logo=microsoft&logoColor=white&style=flat-square)
+
+👉 **[Acessar o repositório](https://github.com/eduardogrigorio/meshcentral.com.br)**
+
+---
+
+## 📌 Outros projetos em destaque
 
 | Projeto | O que resolve | Tecnologias |
 |---|---|---|
