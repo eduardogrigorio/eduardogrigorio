@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=200&section=header&text=Eduardo%20Pena%20Grigorio&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infraestrutura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20DevOps&descAlignY=60&descSize=18" alt="Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=5391FE&center=true&vCenter=true&width=700&lines=Analista+S%C3%AAnior+de+TI+%7C+18%2B+anos+de+experi%C3%AAncia;Infra+%26+Seguran%C3%A7a+%E2%86%92+DevOps;Automatizando+o+que+se+repete+%E2%9A%99%EF%B8%8F;Windows+Server+%7C+Azure+%7C+Fortinet+%7C+PowerShell)](https://github.com/eduardogrigorio)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=5391FE&center=true&vCenter=true&width=700&lines=Analista+S%C3%AAnior+de+TI+%7C+18%2B+anos+de+experi%C3%AAncia;Infra+%26+Seguran%C3%A7a+%E2%86%92+DevOps;Automatizando+o+que+se+repete+%E2%9A%99%EF%B8%8F;Windows+Server+%7C+Azure+%7C+Fortinet+%7C+PowerShell;Linux+Server+%7C+Proxmox+%7C+Hyper-V;IA+aplicada+%C3%A0+rotina+de+TI+%F0%9F%A4%96)](https://github.com/eduardogrigorio)
 
 ![Local](https://img.shields.io/badge/📍_Salvador,_BA-Brasil-0078D4?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/🎯_Foco-DevOps-5391FE?style=for-the-badge)
@@ -20,6 +20,9 @@ Sou **TI Sênior** com mais de **18 anos** mantendo ambientes corporativos está
 
 - 🛡️ Segurança e conformidade **LGPD** em ambientes de produção
 - ⚙️ Automação de rotinas de TI com **PowerShell** e **Python**
+- 🐧 Administração de **Linux Server** (serviços, usuários, rede, logs e rotinas de manutenção)
+- 🧱 Virtualização com **Proxmox VE** e **Microsoft Hyper-V** (VMs, redes virtuais, storage, snapshots e backups)
+- 🤖 **Inteligência Artificial** aplicada à rotina de TI: apoio em scripts, documentação, troubleshooting e automação
 - 📡 Monitoramento e observabilidade com **Zabbix** e **Grafana**
 - 🗂️ Gestão de ativos e chamados com **GLPI**
 - 🖥️ Acesso remoto e gerenciamento de endpoints com **MeshCentral**
@@ -39,9 +42,15 @@ Sou **TI Sênior** com mais de **18 anos** mantendo ambientes corporativos está
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+**Virtualização**
+
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 **Automação & Desenvolvimento**
 
@@ -50,6 +59,11 @@ Sou **TI Sênior** com mais de **18 anos** mantendo ambientes corporativos está
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Inteligência Artificial**
+
+![IA](https://img.shields.io/badge/IA_Aplicada-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Monitoramento, Gestão & Acesso Remoto**
 
@@ -77,6 +91,19 @@ Sou **TI Sênior** com mais de **18 anos** mantendo ambientes corporativos está
 
 ---
 
+## 🧱 Virtualização, Linux & IA
+
+| Área | O que eu faço | Tecnologias |
+|---|---|---|
+| 🐧 **Linux Server** | Administração de servidores, serviços, usuários e permissões, rede, logs e rotinas de manutenção | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square) |
+| 🟧 **Proxmox VE** | Criação e gestão de VMs e containers, redes virtuais, storage, snapshots e backups | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square) |
+| 🪟 **Hyper-V** | Virtualização em ambiente Windows Server: VMs, switches virtuais, checkpoints e integração com o AD | ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?logo=windows&logoColor=white&style=flat-square) |
+| 🤖 **IA aplicada** | Apoio em scripts, documentação técnica, troubleshooting e ideias de automação | ![IA](https://img.shields.io/badge/IA-8A2BE2?style=flat-square) |
+
+> 💡 **Conexão com DevOps:** Proxmox e Hyper-V são o laboratório ideal para praticar Terraform, Ansible e Kubernetes antes de levar tudo para a nuvem.
+
+---
+
 ## 📌 Projetos em destaque
 
 | Projeto | O que resolve | Tecnologias |
@@ -101,6 +128,8 @@ flowchart LR
 
 - [x] Base sólida: Windows Server, Active Directory, redes e segurança
 - [x] Automação com PowerShell e Python
+- [x] Linux Server, Proxmox e Hyper-V
+- [x] IA aplicada à rotina de TI
 - [x] Pós-graduação em DevOps
 - [ ] 🐳 Projeto Docker com pipeline CI/CD (GitHub Actions)
 - [ ] 🏗️ Infraestrutura como código com Terraform e Ansible
