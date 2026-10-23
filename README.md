@@ -1,4 +1,4 @@
-# Eduardo Grigorio (Eduardo Pena Grigorio) - Devops - Salvador-BA
+# Eduardo Pena Grigorio - Devops - Salvador-BA
 
 <div align="center">
 
